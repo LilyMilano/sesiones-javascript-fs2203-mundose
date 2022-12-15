@@ -8,9 +8,9 @@ while( counter <= 10 ){
     
     //Backticks ``
     
-    console.log(`Iteracion ${counter}`)
+    console.log(`Iteracion ${counter}`);
 
-    counter++
+    counter++;
 }
 
 
